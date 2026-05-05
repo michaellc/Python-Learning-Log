@@ -25,7 +25,7 @@
 
 | Date (日期) | Topic (学习内容) | Status (状态) | Source Code (代码) |
 | :--- | :--- | :---: | :--- |
-| 2026-05-05 | GitHub integration & Git workflow | ✅ Done | `hello_world.py` |
+| 2026-05-05 | 1.Environment Setup <br> 2.GitHub integration & Git workflow | ✅ Done | `hello_world.py` <br> `day1_basic.py` |
 | 2026-05-06 | Variables & Basic Data Types | 🏗️ In Progress | - |
 | 2026-05-07 | Control Flow (If/Loop) | 📅 Planned | - |
 
